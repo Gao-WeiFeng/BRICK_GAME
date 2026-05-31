@@ -1,1 +1,1 @@
--IE:/software/raylib/include
+-IE:/software/raylib/include -IE:/software/enet/include

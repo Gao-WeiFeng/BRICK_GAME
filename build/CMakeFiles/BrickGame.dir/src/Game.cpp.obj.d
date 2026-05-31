@@ -1,21 +1,236 @@
 CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
- E:\BRICK_GAME\src\Game.h E:/software/raylib/include/raylib.h \
- E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
- E:/software/MSYS2/ucrt64/include/stdarg.h \
- E:/software/MSYS2/ucrt64/include/_mingw_stdarg.h \
- E:/software/MSYS2/ucrt64/include/vadefs.h \
+ E:\BRICK_GAME\src\Game.h E:/software/MSYS2/ucrt64/include/windows.h \
  E:/software/MSYS2/ucrt64/include/_mingw.h \
  E:/software/MSYS2/ucrt64/include/_mingw_mac.h \
  E:/software/MSYS2/ucrt64/include/_mingw_secapi.h \
+ E:/software/MSYS2/ucrt64/include/vadefs.h \
  E:/software/MSYS2/ucrt64/include/sdks/_mingw_ddk.h \
- E:\BRICK_GAME\src\Ball.h E:\BRICK_GAME\src\Paddle.h \
- E:\BRICK_GAME\src\Brick.h E:\BRICK_GAME\src\PowerUp.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/memory \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/memoryfwd.h \
+ E:/software/MSYS2/ucrt64/include/sdkddkver.h \
+ E:/software/MSYS2/ucrt64/include/excpt.h \
+ E:/software/MSYS2/ucrt64/include/crtdefs.h \
+ E:/software/MSYS2/ucrt64/include/corecrt.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+ E:/software/MSYS2/ucrt64/include/stdarg.h \
+ E:/software/MSYS2/ucrt64/include/_mingw_stdarg.h \
+ E:/software/MSYS2/ucrt64/include/windef.h \
+ E:/software/MSYS2/ucrt64/include/winapifamily.h \
+ E:/software/MSYS2/ucrt64/include/minwindef.h \
+ E:/software/MSYS2/ucrt64/include/specstrings.h \
+ E:/software/MSYS2/ucrt64/include/sal.h \
+ E:/software/MSYS2/ucrt64/include/concurrencysal.h \
+ E:/software/MSYS2/ucrt64/include/driverspecs.h \
+ E:/software/MSYS2/ucrt64/include/winnt.h \
+ E:/software/MSYS2/ucrt64/include/_mingw_unicode.h \
+ E:/software/MSYS2/ucrt64/include/ctype.h \
+ E:/software/MSYS2/ucrt64/include/corecrt_wctype.h \
+ E:/software/MSYS2/ucrt64/include/apiset.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/intrin-impl.h \
+ E:/software/MSYS2/ucrt64/include/basetsd.h \
+ E:/software/MSYS2/ucrt64/include/guiddef.h \
+ E:/software/MSYS2/ucrt64/include/string.h \
+ E:/software/MSYS2/ucrt64/include/sec_api/string_s.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/x86intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/x86gprintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/ia32intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+ E:/software/MSYS2/ucrt64/include/stddef.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/adxintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/bmiintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/bmi2intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cetintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cldemoteintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clflushoptintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clzerointrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cmpccxaddintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/enqcmdintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fxsrintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lzcntintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lwpintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/movdirintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mwaitintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mwaitxintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pconfigintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/popcntintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pkuintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/prfchiintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/raointintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/rdseedintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/rtmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/serializeintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sgxintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tbmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tsxldtrkintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/uintrintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/waitpkgintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wbnoinvdintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavecintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveoptintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavesintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/hresetintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/usermsrintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/immintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xmmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/stdlib.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstdlib \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/os_defines.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/pstl/pstl_config.h \
+ E:/software/MSYS2/ucrt64/include/stdlib.h \
+ E:/software/MSYS2/ucrt64/include/corecrt_wstdlib.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ E:/software/MSYS2/ucrt64/include/limits.h \
+ E:/software/MSYS2/ucrt64/include/sec_api/stdlib_s.h \
+ E:/software/MSYS2/ucrt64/include/malloc.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/std_abs.h \
+ E:/software/MSYS2/ucrt64/include/errno.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/emmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pmmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tmmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/smmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wmmintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxifmaintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniint8intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniint16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx2intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512cdintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bwintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512dqintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vlbwintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vldqintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmaintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmavlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmiintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmivlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmi2intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmi2vlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vnniintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vnnivlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqvlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bitalgintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bitalgvlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectvlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16vlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/shaintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm3intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sha512intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm4intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fmaintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/f16cintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/gfniintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/vaesintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/vpclmulqdqintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16vlintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxneconvertintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtileintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxint8intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxbf16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxcomplexintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxavx512intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtf32intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtransposeintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp8intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/prfchwintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/keylockerintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2mediaintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512mediaintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2convertintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512convertintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2bf16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512bf16intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2satcvtintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512satcvtintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2minmaxintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512minmaxintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2copyintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/movrsintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxmovrsintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm3dnow.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fma4intrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/ammintrin.h \
+ E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xopintrin.h \
+ E:/software/MSYS2/ucrt64/include/pshpack4.h \
+ E:/software/MSYS2/ucrt64/include/poppack.h \
+ E:/software/MSYS2/ucrt64/include/pshpack4.h \
+ E:/software/MSYS2/ucrt64/include/pshpack2.h \
+ E:/software/MSYS2/ucrt64/include/poppack.h \
+ E:/software/MSYS2/ucrt64/include/pshpack2.h \
+ E:/software/MSYS2/ucrt64/include/pshpack8.h \
+ E:/software/MSYS2/ucrt64/include/pshpack8.h \
+ E:/software/MSYS2/ucrt64/include/ktmtypes.h \
+ E:/software/MSYS2/ucrt64/include/winbase.h \
+ E:/software/MSYS2/ucrt64/include/apisetcconv.h \
+ E:/software/MSYS2/ucrt64/include/minwinbase.h \
+ E:/software/MSYS2/ucrt64/include/bemapiset.h \
+ E:/software/MSYS2/ucrt64/include/debugapi.h \
+ E:/software/MSYS2/ucrt64/include/errhandlingapi.h \
+ E:/software/MSYS2/ucrt64/include/fibersapi.h \
+ E:/software/MSYS2/ucrt64/include/fileapi.h \
+ E:/software/MSYS2/ucrt64/include/handleapi.h \
+ E:/software/MSYS2/ucrt64/include/heapapi.h \
+ E:/software/MSYS2/ucrt64/include/ioapiset.h \
+ E:/software/MSYS2/ucrt64/include/interlockedapi.h \
+ E:/software/MSYS2/ucrt64/include/jobapi.h \
+ E:/software/MSYS2/ucrt64/include/libloaderapi.h \
+ E:/software/MSYS2/ucrt64/include/memoryapi.h \
+ E:/software/MSYS2/ucrt64/include/namedpipeapi.h \
+ E:/software/MSYS2/ucrt64/include/namespaceapi.h \
+ E:/software/MSYS2/ucrt64/include/processenv.h \
+ E:/software/MSYS2/ucrt64/include/processthreadsapi.h \
+ E:/software/MSYS2/ucrt64/include/processtopologyapi.h \
+ E:/software/MSYS2/ucrt64/include/profileapi.h \
+ E:/software/MSYS2/ucrt64/include/realtimeapiset.h \
+ E:/software/MSYS2/ucrt64/include/securityappcontainer.h \
+ E:/software/MSYS2/ucrt64/include/securitybaseapi.h \
+ E:/software/MSYS2/ucrt64/include/synchapi.h \
+ E:/software/MSYS2/ucrt64/include/sysinfoapi.h \
+ E:/software/MSYS2/ucrt64/include/systemtopologyapi.h \
+ E:/software/MSYS2/ucrt64/include/threadpoolapiset.h \
+ E:/software/MSYS2/ucrt64/include/threadpoollegacyapiset.h \
+ E:/software/MSYS2/ucrt64/include/utilapiset.h \
+ E:/software/MSYS2/ucrt64/include/wow64apiset.h \
+ E:/software/MSYS2/ucrt64/include/winerror.h \
+ E:/software/MSYS2/ucrt64/include/fltwinerror.h \
+ E:/software/MSYS2/ucrt64/include/timezoneapi.h \
+ E:/software/MSYS2/ucrt64/include/wingdi.h \
+ E:/software/MSYS2/ucrt64/include/winuser.h \
+ E:/software/MSYS2/ucrt64/include/tvout.h \
+ E:/software/MSYS2/ucrt64/include/winnls.h \
+ E:/software/MSYS2/ucrt64/include/datetimeapi.h \
+ E:/software/MSYS2/ucrt64/include/stringapiset.h \
+ E:/software/MSYS2/ucrt64/include/wincon.h \
+ E:/software/MSYS2/ucrt64/include/wincontypes.h \
+ E:/software/MSYS2/ucrt64/include/consoleapi.h \
+ E:/software/MSYS2/ucrt64/include/consoleapi2.h \
+ E:/software/MSYS2/ucrt64/include/consoleapi3.h \
+ E:/software/MSYS2/ucrt64/include/winver.h \
+ E:/software/MSYS2/ucrt64/include/winreg.h \
+ E:/software/MSYS2/ucrt64/include/reason.h \
+ E:/software/MSYS2/ucrt64/include/winnetwk.h \
+ E:/software/MSYS2/ucrt64/include/wnnc.h \
+ E:/software/MSYS2/ucrt64/include/virtdisk.h \
+ E:/software/MSYS2/ucrt64/include/stralign.h \
+ E:/software/MSYS2/ucrt64/include/sec_api/stralign_s.h \
+ E:/software/raylib/include/raylib.h E:\BRICK_GAME\src\Ball.h \
+ E:\BRICK_GAME\src\Paddle.h E:\BRICK_GAME\src\Brick.h \
+ E:\BRICK_GAME\src\PowerUp.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/memory \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/memoryfwd.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/allocator.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/new_allocator.h \
@@ -64,10 +279,7 @@ CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/postypes.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/cwchar \
  E:/software/MSYS2/ucrt64/include/wchar.h \
- E:/software/MSYS2/ucrt64/include/corecrt.h \
  E:/software/MSYS2/ucrt64/include/corecrt_stdio_config.h \
- E:/software/MSYS2/ucrt64/include/corecrt_wstdlib.h \
- E:/software/MSYS2/ucrt64/include/corecrt_wctype.h \
  E:/software/MSYS2/ucrt64/include/_mingw_off_t.h \
  E:/software/MSYS2/ucrt64/include/_mingw_stat64.h \
  E:/software/MSYS2/ucrt64/include/swprintf.inl \
@@ -81,16 +293,9 @@ CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
  E:/software/MSYS2/ucrt64/include/pthread.h \
- E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
- E:/software/MSYS2/ucrt64/include/stddef.h \
- E:/software/MSYS2/ucrt64/include/crtdefs.h \
- E:/software/MSYS2/ucrt64/include/errno.h \
  E:/software/MSYS2/ucrt64/include/sys/types.h \
  E:/software/MSYS2/ucrt64/include/process.h \
  E:/software/MSYS2/ucrt64/include/corecrt_startup.h \
- E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
- E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
- E:/software/MSYS2/ucrt64/include/limits.h \
  E:/software/MSYS2/ucrt64/include/signal.h \
  E:/software/MSYS2/ucrt64/include/pthread_signal.h \
  E:/software/MSYS2/ucrt64/include/time.h \
@@ -113,49 +318,15 @@ CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/backward/auto_ptr.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/pstl/glue_memory_defs.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/pstl/execution_defs.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/vector \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_vector.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/initializer_list \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_bvector.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/range_access.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/vector.tcc \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/memory_resource.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstddef \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/string \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/char_traits.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/localefwd.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/clocale \
- E:/software/MSYS2/ucrt64/include/locale.h \
- E:/software/MSYS2/ucrt64/include/stdio.h \
- E:/software/MSYS2/ucrt64/include/sec_api/stdio_s.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/cctype \
- E:/software/MSYS2/ucrt64/include/ctype.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/ostream_insert.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/cxxabi_forced.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/basic_string.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/string_view \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/string_view.tcc \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/ext/string_conversions.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstdlib \
- E:/software/MSYS2/ucrt64/include/stdlib.h \
- E:/software/MSYS2/ucrt64/include/sec_api/stdlib_s.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/stdlib.h \
- E:/software/MSYS2/ucrt64/include/malloc.h \
- E:/software/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/std_abs.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstdio \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/cerrno \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/charconv.h \
- E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/basic_string.tcc \
  E:\BRICK_GAME\src\json.hpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/algorithm \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_algo.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/algorithmfwd.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/initializer_list \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_heap.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/uniform_int_dist.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/pstl/glue_algorithm_defs.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstddef \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/functional \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/std_function.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/unordered_map \
@@ -164,15 +335,41 @@ CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/hashtable_policy.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/enable_special_members.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/node_handle.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/range_access.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/erase_if.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/memory_resource.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/vector \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_vector.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_bvector.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/vector.tcc \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/array \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/compare \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/iterator \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stream_iterator.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/streambuf_iterator.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/streambuf \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/localefwd.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/clocale \
+ E:/software/MSYS2/ucrt64/include/locale.h \
+ E:/software/MSYS2/ucrt64/include/stdio.h \
+ E:/software/MSYS2/ucrt64/include/sec_api/stdio_s.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/cctype \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/ios_base.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/locale_classes.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/string \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/char_traits.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/ostream_insert.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/cxxabi_forced.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/basic_string.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/string_view \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/string_view.tcc \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/ext/string_conversions.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstdio \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/cerrno \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/charconv.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/basic_string.tcc \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/locale_classes.tcc \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/system_error \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h \
@@ -220,8 +417,6 @@ CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/cassert \
  E:/software/MSYS2/ucrt64/include/assert.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/cstring \
- E:/software/MSYS2/ucrt64/include/string.h \
- E:/software/MSYS2/ucrt64/include/sec_api/string_s.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/filesystem \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/fs_fwd.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/chrono.h \
@@ -261,6 +456,34 @@ CMakeFiles/BrickGame.dir/src/Game.cpp.obj: E:\BRICK_GAME\src\Game.cpp \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/stl_numeric.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/pstl/glue_numeric_defs.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/any \
+ E:/software/enet/include/enet/enet.h \
+ E:/software/enet/include/enet/win32.h \
+ E:/software/MSYS2/ucrt64/include/winsock2.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/_ws1_undef.h \
+ E:/software/MSYS2/ucrt64/include/_bsd_types.h \
+ E:/software/MSYS2/ucrt64/include/inaddr.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/_socket_types.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/_fd_types.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/_ip_types.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/_wsadata.h \
+ E:/software/MSYS2/ucrt64/include/ws2def.h \
+ E:/software/MSYS2/ucrt64/include/psdk_inc/_wsa_errnos.h \
+ E:/software/MSYS2/ucrt64/include/qos.h \
+ E:/software/enet/include/enet/types.h \
+ E:/software/enet/include/enet/protocol.h \
+ E:/software/enet/include/enet/list.h \
+ E:/software/enet/include/enet/callbacks.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/thread \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/std_thread.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/this_thread_sleep.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/future \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/mutex \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/std_mutex.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/unique_lock.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/condition_variable \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/bits/atomic_futex.h \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/atomic \
+ E:/software/MSYS2/ucrt64/include/c++/15.2.0/chrono \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/fstream \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/basic_file.h \
  E:/software/MSYS2/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++io.h \

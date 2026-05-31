@@ -42,14 +42,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BrickGame::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BrickGame-Debug-218a120014124a0eb88a.json",
+					"jsonFile" : "target-BrickGame-Debug-7f437bbac46117525ef6.json",
 					"name" : "BrickGame",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test-Debug-bb3dc43d2743a47df0de.json",
+					"jsonFile" : "target-test-Debug-b02038a3452b5f638e0a.json",
 					"name" : "test",
 					"projectIndex" : 0
 				}

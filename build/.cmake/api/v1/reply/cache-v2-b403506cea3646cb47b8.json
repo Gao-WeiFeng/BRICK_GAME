@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Brick_game"
+			"value" : "E:/BRICK_GAME"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/breakout_week2"
+			"value" : "C:/Program Files (x86)/BrickGame"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1356,42 +1356,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
-		},
-		{
-			"name" : "breakout_week2_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "E:/Brick_game/build"
-		},
-		{
-			"name" : "breakout_week2_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "breakout_week2_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "E:/Brick_game"
 		}
 	],
 	"kind" : "cache",

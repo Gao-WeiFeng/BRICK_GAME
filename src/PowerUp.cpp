@@ -1,92 +1,65 @@
 #include "PowerUp.h"
 #include "Game.h"
-#include "Ball.h"
-#include "Paddle.h"
 #include <cstdlib>
-#include <algorithm>
-#include <cmath>
 
-// 各个效果的实现
-void ExtendPaddleEffect::Apply(Game& game) {
-    game.GetPaddle().Extend(extraWidth, duration);
+PowerUp::PowerUp(float x, float y, PowerUpType type) 
+    : type(type), position({x, y}), speed({0, 100.0f}) {} // 修复：使用speed
+
+void PowerUp::Update(float dt) {
+    position.y += speed.y * dt; // 修复：使用speed
 }
 
+void PowerUp::Draw() {
+    Color color;
+    switch(type) {
+        case PowerUpType::PADDLE_EXTEND: color = YELLOW; break;
+        case PowerUpType::MULTI_BALL: color = GREEN; break;
+        case PowerUpType::SLOW_BALL: color = BLUE; break;
+        default: color = WHITE; break;
+    }
+    DrawRectangle(position.x, position.y, 20, 20, color);
+}
+
+Rectangle PowerUp::GetRect() {
+    return {position.x, position.y, 20, 20};
+}
+
+// 加长板效果实现
+void PaddleExtendEffect::Apply(Game& game) {
+    // 同时加长两个板
+    game.GetPaddle1().Extend(extraWidth, duration);
+    game.GetPaddle2().Extend(extraWidth, duration);
+}
+
+// 多球效果实现
 void MultiBallEffect::Apply(Game& game) {
-    // 给每个现有的球，生成新的球
     auto& balls = game.GetBalls();
-    int originalCount = balls.size();
-    for (int i = 0; i < originalCount && balls.size() < originalCount + extraBalls; i++) {
-        auto& oldBall = balls[i];
-        if (oldBall.IsLaunched()) {
-            // 随机方向的新球
-            float angle = (float)((rand() % 120 + 30) * 3.14159f / 180.0f);
-            if (rand() % 2 == 0) angle = 3.14159f - angle;
-            float speed = 8.0f;
-            Vector2 newSpeed = {
-                speed * cosf(angle),
-                -speed * abs(sinf(angle))
-            };
-            Ball newBall = oldBall;
-            newBall.Reset(oldBall.GetPosition(), newSpeed);
-            balls.push_back(newBall);
-        }
+    if (balls.empty()) return;
+    
+    // 复制现有的球，改变方向
+    Ball original = balls[0];
+    for (int i = 0; i < extraBalls; i++) {
+        Ball newBall = original;
+        Vector2 speed = original.GetSpeed();
+        newBall.Reset(original.GetPosition(), {speed.x + (rand()%20 - 10), speed.y - 50});
+        balls.push_back(newBall);
     }
 }
 
+// 减速效果实现
 void SlowBallEffect::Apply(Game& game) {
     game.ActivateSlowEffect(duration);
 }
 
-PowerUp::PowerUp(float x, float y, PowerUpType t) : position({x, y}), type(t), active(true) {}
-
-Rectangle PowerUp::GetRect() {
-    return {position.x, position.y, 30, 30};
-}
-
-void PowerUp::Update(float dt) {
-    // 道具向下掉落，速度100像素每秒
-    position.y += 100 * dt;
-}
-
-void PowerUp::Draw() {
-    Rectangle rect = GetRect();
-    Color color;
-    char text[2];
-    // 不同道具不同颜色和标识
-    switch(type) {
-        case PowerUpType::PADDLE_EXTEND:
-            color = YELLOW;
-            text[0] = 'E'; text[1] = '\0';
-            break;
-        case PowerUpType::MULTI_BALL:
-            color = GREEN;
-            text[0] = 'M'; text[1] = '\0';
-            break;
-        case PowerUpType::SLOW_BALL:
-            color = BLUE;
-            text[0] = 'S'; text[1] = '\0';
-            break;
-        default:
-            color = WHITE;
-            text[0] = '?'; text[1] = '\0';
-    }
-    // 绘制道具，加个光晕效果
-    DrawRectangleRec(rect, color);
-    DrawRectangleLinesEx(rect, 2, WHITE);
-    DrawText(text, rect.x + 8, rect.y + 5, 20, BLACK);
-    DrawCircleGradient(rect.x + 15, rect.y + 15, 20, Fade(color, 0.2f), Fade(color, 0));
-}
-
 // 工厂函数实现
-std::unique_ptr<PowerUpEffect> CreatePowerUp(PowerUpType type, 
-    float extra_width, float extra_balls, float speed_factor, float duration) {
+std::unique_ptr<PowerUpEffect> CreatePowerUp(PowerUpType type, float extraWidth, int extraBalls, float speedFactor, float duration) {
     switch(type) {
         case PowerUpType::PADDLE_EXTEND:
-            return std::make_unique<ExtendPaddleEffect>(extra_width, duration);
+            return std::make_unique<PaddleExtendEffect>(extraWidth, duration);
         case PowerUpType::MULTI_BALL:
-            return std::make_unique<MultiBallEffect>((int)extra_balls);
+            return std::make_unique<MultiBallEffect>(extraBalls);
         case PowerUpType::SLOW_BALL:
-            return std::make_unique<SlowBallEffect>(duration);
+            return std::make_unique<SlowBallEffect>(speedFactor, duration); // 修复：两个参数
         default:
             return nullptr;
     }

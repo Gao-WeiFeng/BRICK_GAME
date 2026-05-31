@@ -29,7 +29,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -37,7 +36,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -49,6 +47,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
       - "/REGISTRY-NOTFOUND/bin/"
       - "c:/MinGW/bin/"
       - "/MinGW/bin/"
@@ -62,15 +61,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -84,6 +81,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -115,15 +113,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -137,6 +133,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "message-v1"
     backtrace:
@@ -157,7 +154,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
       
       The C compiler identification is GNU, found in:
-        E:/Brick_game/build/CMakeFiles/4.3.0/CompilerIdC/a.exe
+        E:/BRICK_GAME/build/CMakeFiles/4.3.0/CompilerIdC/a.exe
       
   -
     kind: "find-v1"
@@ -181,7 +178,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -189,7 +185,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -201,6 +196,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/ar.com"
     found: "E:/software/MSYS2/ucrt64/bin/ar.exe"
@@ -210,15 +206,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -232,6 +226,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -254,7 +249,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -262,7 +256,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -274,6 +267,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/ranlib.com"
     found: "E:/software/MSYS2/ucrt64/bin/ranlib.exe"
@@ -283,15 +277,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -305,6 +297,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -327,7 +320,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -335,7 +327,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -347,6 +338,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/strip.com"
     found: "E:/software/MSYS2/ucrt64/bin/strip.exe"
@@ -356,15 +348,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -378,6 +368,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -400,7 +391,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -408,7 +398,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -420,6 +409,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/ld.com"
     found: "E:/software/MSYS2/ucrt64/bin/ld.exe"
@@ -429,15 +419,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -451,6 +439,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -473,7 +462,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -481,7 +469,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -493,6 +480,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/nm.com"
     found: "E:/software/MSYS2/ucrt64/bin/nm.exe"
@@ -502,15 +490,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -524,6 +510,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -546,7 +533,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -554,7 +540,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -566,6 +551,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/objdump.com"
     found: "E:/software/MSYS2/ucrt64/bin/objdump.exe"
@@ -575,15 +561,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -597,6 +581,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -619,7 +604,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -627,7 +611,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -639,6 +622,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/objcopy.com"
     found: "E:/software/MSYS2/ucrt64/bin/objcopy.exe"
@@ -648,15 +632,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -670,6 +652,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -692,7 +675,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -700,7 +682,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -712,6 +693,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/readelf.com"
     found: "E:/software/MSYS2/ucrt64/bin/readelf.exe"
@@ -721,15 +703,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -743,6 +723,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -765,7 +746,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -773,7 +753,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -785,6 +764,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/dlltool.com"
     found: "E:/software/MSYS2/ucrt64/bin/dlltool.exe"
@@ -794,15 +774,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -816,6 +794,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -838,7 +817,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -846,7 +824,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -858,6 +835,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/addr2line.com"
     found: "E:/software/MSYS2/ucrt64/bin/addr2line.exe"
@@ -867,15 +845,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -889,6 +865,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -911,7 +888,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -919,7 +895,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -931,6 +906,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/tapi.com"
       - "E:/software/MSYS2/ucrt64/bin/tapi.exe"
@@ -938,9 +914,6 @@ events:
       - "E:/software/MSYS2/usr/bin/tapi.com"
       - "E:/software/MSYS2/usr/bin/tapi.exe"
       - "E:/software/MSYS2/usr/bin/tapi"
-      - "E:/software/Microsoft VS Code/tapi.com"
-      - "E:/software/Microsoft VS Code/tapi.exe"
-      - "E:/software/Microsoft VS Code/tapi"
       - "C:/Windows/System32/tapi.com"
       - "C:/Windows/System32/tapi.exe"
       - "C:/Windows/System32/tapi"
@@ -962,9 +935,6 @@ events:
       - "C:/Program Files/dotnet/tapi.com"
       - "C:/Program Files/dotnet/tapi.exe"
       - "C:/Program Files/dotnet/tapi"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/tapi"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/tapi.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/tapi.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/tapi"
@@ -998,6 +968,9 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/tapi.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/tapi.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/tapi"
+      - "E:/software/vcpkg/tapi.com"
+      - "E:/software/vcpkg/tapi.exe"
+      - "E:/software/vcpkg/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -1005,15 +978,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -1027,6 +998,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -1052,7 +1024,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1060,7 +1031,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -1072,6 +1042,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.2.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.2.exe"
@@ -1079,9 +1050,6 @@ events:
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.2.com"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.2.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.2"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.2.com"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.2.exe"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.2"
       - "C:/Windows/System32/gcc-ar-15.2.com"
       - "C:/Windows/System32/gcc-ar-15.2.exe"
       - "C:/Windows/System32/gcc-ar-15.2"
@@ -1103,9 +1071,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ar-15.2.com"
       - "C:/Program Files/dotnet/gcc-ar-15.2.exe"
       - "C:/Program Files/dotnet/gcc-ar-15.2"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.2.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.2.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.2"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.2.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.2.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.2"
@@ -1139,15 +1104,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.2.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.2.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.2"
+      - "E:/software/vcpkg/gcc-ar-15.2.com"
+      - "E:/software/vcpkg/gcc-ar-15.2.exe"
+      - "E:/software/vcpkg/gcc-ar-15.2"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.com"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ar-15"
       - "C:/Windows/System32/gcc-ar-15.com"
       - "C:/Windows/System32/gcc-ar-15.exe"
       - "C:/Windows/System32/gcc-ar-15"
@@ -1169,9 +1134,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ar-15.com"
       - "C:/Program Files/dotnet/gcc-ar-15.exe"
       - "C:/Program Files/dotnet/gcc-ar-15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15"
@@ -1205,15 +1167,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15"
+      - "E:/software/vcpkg/gcc-ar-15.com"
+      - "E:/software/vcpkg/gcc-ar-15.exe"
+      - "E:/software/vcpkg/gcc-ar-15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar15"
       - "E:/software/MSYS2/usr/bin/gcc-ar15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ar15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ar15"
-      - "E:/software/Microsoft VS Code/gcc-ar15.com"
-      - "E:/software/Microsoft VS Code/gcc-ar15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ar15"
       - "C:/Windows/System32/gcc-ar15.com"
       - "C:/Windows/System32/gcc-ar15.exe"
       - "C:/Windows/System32/gcc-ar15"
@@ -1235,9 +1197,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ar15.com"
       - "C:/Program Files/dotnet/gcc-ar15.exe"
       - "C:/Program Files/dotnet/gcc-ar15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar15"
@@ -1271,6 +1230,9 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar15"
+      - "E:/software/vcpkg/gcc-ar15.com"
+      - "E:/software/vcpkg/gcc-ar15.exe"
+      - "E:/software/vcpkg/gcc-ar15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar.com"
     found: "E:/software/MSYS2/ucrt64/bin/gcc-ar.exe"
     search_context:
@@ -1279,15 +1241,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -1301,6 +1261,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -1326,7 +1287,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1334,7 +1294,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -1346,6 +1305,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.2.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.2.exe"
@@ -1353,9 +1313,6 @@ events:
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.2.com"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.2.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.2"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.2.com"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.2.exe"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.2"
       - "C:/Windows/System32/gcc-ranlib-15.2.com"
       - "C:/Windows/System32/gcc-ranlib-15.2.exe"
       - "C:/Windows/System32/gcc-ranlib-15.2"
@@ -1377,9 +1334,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ranlib-15.2.com"
       - "C:/Program Files/dotnet/gcc-ranlib-15.2.exe"
       - "C:/Program Files/dotnet/gcc-ranlib-15.2"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.2.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.2.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.2"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.2.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.2.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.2"
@@ -1413,15 +1367,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.2.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.2.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.2"
+      - "E:/software/vcpkg/gcc-ranlib-15.2.com"
+      - "E:/software/vcpkg/gcc-ranlib-15.2.exe"
+      - "E:/software/vcpkg/gcc-ranlib-15.2"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.com"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15"
       - "C:/Windows/System32/gcc-ranlib-15.com"
       - "C:/Windows/System32/gcc-ranlib-15.exe"
       - "C:/Windows/System32/gcc-ranlib-15"
@@ -1443,9 +1397,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ranlib-15.com"
       - "C:/Program Files/dotnet/gcc-ranlib-15.exe"
       - "C:/Program Files/dotnet/gcc-ranlib-15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15"
@@ -1479,15 +1430,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15"
+      - "E:/software/vcpkg/gcc-ranlib-15.com"
+      - "E:/software/vcpkg/gcc-ranlib-15.exe"
+      - "E:/software/vcpkg/gcc-ranlib-15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib15"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib15"
-      - "E:/software/Microsoft VS Code/gcc-ranlib15.com"
-      - "E:/software/Microsoft VS Code/gcc-ranlib15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ranlib15"
       - "C:/Windows/System32/gcc-ranlib15.com"
       - "C:/Windows/System32/gcc-ranlib15.exe"
       - "C:/Windows/System32/gcc-ranlib15"
@@ -1509,9 +1460,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ranlib15.com"
       - "C:/Program Files/dotnet/gcc-ranlib15.exe"
       - "C:/Program Files/dotnet/gcc-ranlib15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib15"
@@ -1545,6 +1493,9 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib15"
+      - "E:/software/vcpkg/gcc-ranlib15.com"
+      - "E:/software/vcpkg/gcc-ranlib15.exe"
+      - "E:/software/vcpkg/gcc-ranlib15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib.com"
     found: "E:/software/MSYS2/ucrt64/bin/gcc-ranlib.exe"
     search_context:
@@ -1553,15 +1504,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -1575,6 +1524,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -1606,15 +1556,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -1628,6 +1576,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "message-v1"
     backtrace:
@@ -1648,7 +1597,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        E:/Brick_game/build/CMakeFiles/4.3.0/CompilerIdCXX/a.exe
+        E:/BRICK_GAME/build/CMakeFiles/4.3.0/CompilerIdCXX/a.exe
       
   -
     kind: "find-v1"
@@ -1675,7 +1624,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1683,7 +1631,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -1695,6 +1642,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.2.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.2.exe"
@@ -1702,9 +1650,6 @@ events:
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.2.com"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.2.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.2"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.2.com"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.2.exe"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.2"
       - "C:/Windows/System32/gcc-ar-15.2.com"
       - "C:/Windows/System32/gcc-ar-15.2.exe"
       - "C:/Windows/System32/gcc-ar-15.2"
@@ -1726,9 +1671,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ar-15.2.com"
       - "C:/Program Files/dotnet/gcc-ar-15.2.exe"
       - "C:/Program Files/dotnet/gcc-ar-15.2"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.2.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.2.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.2"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.2.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.2.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.2"
@@ -1762,15 +1704,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.2.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.2.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.2"
+      - "E:/software/vcpkg/gcc-ar-15.2.com"
+      - "E:/software/vcpkg/gcc-ar-15.2.exe"
+      - "E:/software/vcpkg/gcc-ar-15.2"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar-15"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ar-15"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.com"
-      - "E:/software/Microsoft VS Code/gcc-ar-15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ar-15"
       - "C:/Windows/System32/gcc-ar-15.com"
       - "C:/Windows/System32/gcc-ar-15.exe"
       - "C:/Windows/System32/gcc-ar-15"
@@ -1792,9 +1734,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ar-15.com"
       - "C:/Program Files/dotnet/gcc-ar-15.exe"
       - "C:/Program Files/dotnet/gcc-ar-15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar-15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar-15"
@@ -1828,15 +1767,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar-15"
+      - "E:/software/vcpkg/gcc-ar-15.com"
+      - "E:/software/vcpkg/gcc-ar-15.exe"
+      - "E:/software/vcpkg/gcc-ar-15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar15"
       - "E:/software/MSYS2/usr/bin/gcc-ar15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ar15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ar15"
-      - "E:/software/Microsoft VS Code/gcc-ar15.com"
-      - "E:/software/Microsoft VS Code/gcc-ar15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ar15"
       - "C:/Windows/System32/gcc-ar15.com"
       - "C:/Windows/System32/gcc-ar15.exe"
       - "C:/Windows/System32/gcc-ar15"
@@ -1858,9 +1797,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ar15.com"
       - "C:/Program Files/dotnet/gcc-ar15.exe"
       - "C:/Program Files/dotnet/gcc-ar15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ar15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ar15"
@@ -1894,6 +1830,9 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ar15"
+      - "E:/software/vcpkg/gcc-ar15.com"
+      - "E:/software/vcpkg/gcc-ar15.exe"
+      - "E:/software/vcpkg/gcc-ar15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ar.com"
     found: "E:/software/MSYS2/ucrt64/bin/gcc-ar.exe"
     search_context:
@@ -1902,15 +1841,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -1924,6 +1861,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -1949,7 +1887,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -1957,7 +1894,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -1969,6 +1905,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.2.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.2.exe"
@@ -1976,9 +1913,6 @@ events:
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.2.com"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.2.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.2"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.2.com"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.2.exe"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.2"
       - "C:/Windows/System32/gcc-ranlib-15.2.com"
       - "C:/Windows/System32/gcc-ranlib-15.2.exe"
       - "C:/Windows/System32/gcc-ranlib-15.2"
@@ -2000,9 +1934,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ranlib-15.2.com"
       - "C:/Program Files/dotnet/gcc-ranlib-15.2.exe"
       - "C:/Program Files/dotnet/gcc-ranlib-15.2"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.2.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.2.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.2"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.2.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.2.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.2"
@@ -2036,15 +1967,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.2.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.2.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.2"
+      - "E:/software/vcpkg/gcc-ranlib-15.2.com"
+      - "E:/software/vcpkg/gcc-ranlib-15.2.exe"
+      - "E:/software/vcpkg/gcc-ranlib-15.2"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib-15"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib-15"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.com"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ranlib-15"
       - "C:/Windows/System32/gcc-ranlib-15.com"
       - "C:/Windows/System32/gcc-ranlib-15.exe"
       - "C:/Windows/System32/gcc-ranlib-15"
@@ -2066,9 +1997,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ranlib-15.com"
       - "C:/Program Files/dotnet/gcc-ranlib-15.exe"
       - "C:/Program Files/dotnet/gcc-ranlib-15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib-15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib-15"
@@ -2102,15 +2030,15 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15"
+      - "E:/software/vcpkg/gcc-ranlib-15.com"
+      - "E:/software/vcpkg/gcc-ranlib-15.exe"
+      - "E:/software/vcpkg/gcc-ranlib-15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib15.com"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib15.exe"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib15"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib15.com"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib15.exe"
       - "E:/software/MSYS2/usr/bin/gcc-ranlib15"
-      - "E:/software/Microsoft VS Code/gcc-ranlib15.com"
-      - "E:/software/Microsoft VS Code/gcc-ranlib15.exe"
-      - "E:/software/Microsoft VS Code/gcc-ranlib15"
       - "C:/Windows/System32/gcc-ranlib15.com"
       - "C:/Windows/System32/gcc-ranlib15.exe"
       - "C:/Windows/System32/gcc-ranlib15"
@@ -2132,9 +2060,6 @@ events:
       - "C:/Program Files/dotnet/gcc-ranlib15.com"
       - "C:/Program Files/dotnet/gcc-ranlib15.exe"
       - "C:/Program Files/dotnet/gcc-ranlib15"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib15.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib15.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/gcc-ranlib15"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib15.com"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib15.exe"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/gcc-ranlib15"
@@ -2168,6 +2093,9 @@ events:
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib15.com"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib15.exe"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/gcc-ranlib15"
+      - "E:/software/vcpkg/gcc-ranlib15.com"
+      - "E:/software/vcpkg/gcc-ranlib15.exe"
+      - "E:/software/vcpkg/gcc-ranlib15"
       - "E:/software/MSYS2/ucrt64/bin/gcc-ranlib.com"
     found: "E:/software/MSYS2/ucrt64/bin/gcc-ranlib.exe"
     search_context:
@@ -2176,15 +2104,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -2198,6 +2124,7 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
+        - "E:/software/vcpkg"
   -
     kind: "find-v1"
     backtrace:
@@ -2223,7 +2150,6 @@ events:
     candidate_directories:
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/usr/bin/"
-      - "E:/software/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -2231,7 +2157,6 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
       - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/dotnet/Microsoft VS Code/bin/"
       - "E:/software/Cmake/bin/"
       - "E:/Git/cmd/"
@@ -2243,6 +2168,7 @@ events:
       - "E:/software/raylib/lib/"
       - "C:/Users/Y9000P/AppData/Roaming/npm/"
       - "C:/Users/Y9000P/AppData/Local/GitHubDesktop/bin/"
+      - "E:/software/vcpkg/"
       - "E:/software/MSYS2/ucrt64/bin/"
       - "E:/software/MSYS2/ucrt64/sbin/"
       - "E:/software/MSYS2/ucrt64/"
@@ -2255,9 +2181,9 @@ events:
       - "E:/software/Cmake/bin/"
       - "E:/software/Cmake/sbin/"
       - "E:/software/Cmake/"
-      - "C:/Program Files (x86)/breakout_week2/bin/"
-      - "C:/Program Files (x86)/breakout_week2/sbin/"
-      - "C:/Program Files (x86)/breakout_week2/"
+      - "C:/Program Files (x86)/BrickGame/bin/"
+      - "C:/Program Files (x86)/BrickGame/sbin/"
+      - "C:/Program Files (x86)/BrickGame/"
     searched_directories:
       - "E:/software/MSYS2/ucrt64/bin/windres.com"
     found: "E:/software/MSYS2/ucrt64/bin/windres.exe"
@@ -2267,15 +2193,13 @@ events:
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\ucrt64\\bin"
         - "E:\\software\\MSYS2\\usr\\bin"
-        - "E:/software/Microsoft VS Code"
-        - "C:\\Windows\\system32"
-        - "C:/Windows"
-        - "C:\\Windows\\System32\\Wbem"
-        - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-        - "C:\\Windows\\System32\\OpenSSH\\"
-        - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "C:/Program Files/dotnet/"
         - "C:\\Program Files\\dotnet\\Microsoft VS Code\\bin"
         - "E:/software/Cmake/bin"
         - "E:\\Git\\cmd"
@@ -2289,13 +2213,14 @@ events:
         - "E:\\software\\raylib\\lib"
         - "C:/Users/Y9000P/AppData/Roaming/npm"
         - "C:\\Users\\Y9000P\\AppData\\Local\\GitHubDesktop\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/breakout_week2"
+        - "E:/software/vcpkg"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/BrickGame"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "E:/software/MSYS2/ucrt64"
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "E:/software/Cmake"
-        - "C:/Program Files (x86)/breakout_week2"
+        - "C:/Program Files (x86)/BrickGame"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -2305,8 +2230,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu"
-      binary: "E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu"
+      source: "E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0"
+      binary: "E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -2316,13 +2241,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu'
+        Change Dir: 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0'
         
-        Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_cde09/fast
-        E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_cde09.dir\\build.make CMakeFiles/cmTC_cde09.dir/build
-        mingw32-make[1]: Entering directory 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu'
-        Building C object CMakeFiles/cmTC_cde09.dir/CMakeCCompilerABI.c.obj
-        E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c
+        Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_61dc2/fast
+        E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_61dc2.dir\\build.make CMakeFiles/cmTC_61dc2.dir/build
+        mingw32-make[1]: Entering directory 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0'
+        Building C object CMakeFiles/cmTC_61dc2.dir/CMakeCCompilerABI.c.obj
+        E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -2330,8 +2255,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_cde09.dir\\'
-         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_cde09.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccu1GRMP.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_61dc2.dir\\'
+         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_61dc2.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccotHLeg.s
         GNU C23 (Rev8, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2350,14 +2275,14 @@ events:
          E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: f68563dd6aebdc6b84233a210e98d3c3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_cde09.dir\\'
-         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccu1GRMP.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_61dc2.dir\\'
+         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccotHLeg.s
         GNU assembler version 2.45.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45.1
         COMPILER_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_cde09.exe
-        E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_cde09.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_61dc2.exe
+        E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_61dc2.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -2368,16 +2293,16 @@ events:
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
         COMPILER_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cde09.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_cde09.'
-         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccvHfZNs.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_cde09.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cde09.dir/objects.a --no-whole-archive --out-implib libcmTC_cde09.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_61dc2.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_61dc2.'
+         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccyCpOwN.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_61dc2.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_61dc2.dir/objects.a --no-whole-archive --out-implib libcmTC_61dc2.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccvHfZNs.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_cde09.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cde09.dir/objects.a --no-whole-archive --out-implib libcmTC_cde09.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccyCpOwN.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_61dc2.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_61dc2.dir/objects.a --no-whole-archive --out-implib libcmTC_61dc2.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45.1
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cde09.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_cde09.'
-        E:\\software\\Cmake\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_cde09.dir/objects.a
-        E:\\software\\MSYS2\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_cde09.dir/objects.a @CMakeFiles\\cmTC_cde09.dir\\objects1.rsp
-        E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_cde09.dir/objects.a -Wl,--no-whole-archive -o cmTC_cde09.exe -Wl,--out-implib,libcmTC_cde09.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_61dc2.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_61dc2.'
+        E:\\software\\Cmake\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_61dc2.dir/objects.a
+        E:\\software\\MSYS2\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_61dc2.dir/objects.a @CMakeFiles\\cmTC_61dc2.dir\\objects1.rsp
+        E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_61dc2.dir/objects.a -Wl,--no-whole-archive -o cmTC_61dc2.exe -Wl,--out-implib,libcmTC_61dc2.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0'
         
       exitCode: 0
   -
@@ -2410,13 +2335,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu']
+        ignore line: [Change Dir: 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0']
         ignore line: []
-        ignore line: [Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_cde09/fast]
-        ignore line: [E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_cde09.dir\\build.make CMakeFiles/cmTC_cde09.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-wirhgu']
-        ignore line: [Building C object CMakeFiles/cmTC_cde09.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_61dc2/fast]
+        ignore line: [E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_61dc2.dir\\build.make CMakeFiles/cmTC_61dc2.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-f2d8v0']
+        ignore line: [Building C object CMakeFiles/cmTC_61dc2.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2424,8 +2349,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_cde09.dir\\']
-        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_cde09.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccu1GRMP.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_61dc2.dir\\']
+        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_61dc2.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccotHLeg.s]
         ignore line: [GNU C23 (Rev8  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2444,8 +2369,8 @@ events:
         ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: f68563dd6aebdc6b84233a210e98d3c3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_cde09.dir\\']
-        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccu1GRMP.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_61dc2.dir\\']
+        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccotHLeg.s]
         ignore line: [GNU assembler version 2.45.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45.1]
         ignore line: [COMPILER_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/]
@@ -2456,9 +2381,9 @@ events:
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_cde09.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_cde09.exe]
-        ignore line: [E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_cde09.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_61dc2.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_61dc2.exe]
+        ignore line: [E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_61dc2.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -2476,13 +2401,13 @@ events:
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cde09.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_cde09.']
-        link line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccvHfZNs.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_cde09.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cde09.dir/objects.a --no-whole-archive --out-implib libcmTC_cde09.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_61dc2.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_61dc2.']
+        link line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccyCpOwN.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_61dc2.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_61dc2.dir/objects.a --no-whole-archive --out-implib libcmTC_61dc2.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccvHfZNs.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccyCpOwN.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -2504,7 +2429,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_cde09.exe] ==> ignore
+          arg [cmTC_61dc2.exe] ==> ignore
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -2515,10 +2440,10 @@ events:
           arg [-LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_cde09.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_61dc2.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_cde09.dll.a] ==> ignore
+          arg [libcmTC_61dc2.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2543,7 +2468,7 @@ events:
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccvHfZNs.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_cde09.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cde09.dir/objects.a --no-whole-archive --out-implib libcmTC_cde09.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccyCpOwN.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_61dc2.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_61dc2.dir/objects.a --no-whole-archive --out-implib libcmTC_61dc2.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'C': E:/software/MSYS2/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [gcc_eh]
         remove lib [msvcrt]
@@ -2584,8 +2509,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x"
-      binary: "E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x"
+      source: "E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6"
+      binary: "E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2596,13 +2521,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x'
+        Change Dir: 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6'
         
-        Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_ef774/fast
-        E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_ef774.dir\\build.make CMakeFiles/cmTC_ef774.dir/build
-        mingw32-make[1]: Entering directory 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x'
-        Building CXX object CMakeFiles/cmTC_ef774.dir/CMakeCXXCompilerABI.cpp.obj
-        E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp
+        Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_02170/fast
+        E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_02170.dir\\build.make CMakeFiles/cmTC_02170.dir/build
+        mingw32-make[1]: Entering directory 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6'
+        Building CXX object CMakeFiles/cmTC_02170.dir/CMakeCXXCompilerABI.cpp.obj
+        E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -2610,8 +2535,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_ef774.dir\\'
-         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_ef774.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccWmiRLf.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_02170.dir\\'
+         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_02170.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccZFwvsx.s
         GNU C++17 (Rev8, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2636,14 +2561,14 @@ events:
          E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_ef774.dir\\'
-         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccWmiRLf.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_02170.dir\\'
+         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccZFwvsx.s
         GNU assembler version 2.45.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45.1
         COMPILER_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_ef774.exe
-        E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_ef774.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_02170.exe
+        E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_02170.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -2654,16 +2579,16 @@ events:
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
         COMPILER_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ef774.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_ef774.'
-         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccRhxY3O.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ef774.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_ef774.dir/objects.a --no-whole-archive --out-implib libcmTC_ef774.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_02170.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_02170.'
+         E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccdhHRyO.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_02170.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_02170.dir/objects.a --no-whole-archive --out-implib libcmTC_02170.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccRhxY3O.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ef774.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_ef774.dir/objects.a --no-whole-archive --out-implib libcmTC_ef774.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccdhHRyO.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_02170.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_02170.dir/objects.a --no-whole-archive --out-implib libcmTC_02170.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45.1
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ef774.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_ef774.'
-        E:\\software\\Cmake\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_ef774.dir/objects.a
-        E:\\software\\MSYS2\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_ef774.dir/objects.a @CMakeFiles\\cmTC_ef774.dir\\objects1.rsp
-        E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_ef774.dir/objects.a -Wl,--no-whole-archive -o cmTC_ef774.exe -Wl,--out-implib,libcmTC_ef774.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_02170.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_02170.'
+        E:\\software\\Cmake\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_02170.dir/objects.a
+        E:\\software\\MSYS2\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_02170.dir/objects.a @CMakeFiles\\cmTC_02170.dir\\objects1.rsp
+        E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_02170.dir/objects.a -Wl,--no-whole-archive -o cmTC_02170.exe -Wl,--out-implib,libcmTC_02170.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6'
         
       exitCode: 0
   -
@@ -2702,13 +2627,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x']
+        ignore line: [Change Dir: 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6']
         ignore line: []
-        ignore line: [Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_ef774/fast]
-        ignore line: [E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_ef774.dir\\build.make CMakeFiles/cmTC_ef774.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'E:/Brick_game/build/CMakeFiles/CMakeScratch/TryCompile-1bc44x']
-        ignore line: [Building CXX object CMakeFiles/cmTC_ef774.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): E:/software/Cmake/bin/cmake.exe -E env VERBOSE=1 E:/software/MSYS2/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_02170/fast]
+        ignore line: [E:/software/MSYS2/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_02170.dir\\build.make CMakeFiles/cmTC_02170.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'E:/BRICK_GAME/build/CMakeFiles/CMakeScratch/TryCompile-67azc6']
+        ignore line: [Building CXX object CMakeFiles/cmTC_02170.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj -c E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2716,8 +2641,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_ef774.dir\\']
-        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_ef774.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccWmiRLf.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_02170.dir\\']
+        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT E:\\software\\Cmake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_02170.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccZFwvsx.s]
         ignore line: [GNU C++17 (Rev8  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2742,8 +2667,8 @@ events:
         ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_ef774.dir\\']
-        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccWmiRLf.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_02170.dir\\']
+        ignore line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccZFwvsx.s]
         ignore line: [GNU assembler version 2.45.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45.1]
         ignore line: [COMPILER_PATH=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/]
@@ -2754,9 +2679,9 @@ events:
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_ef774.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_ef774.exe]
-        ignore line: [E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_ef774.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_02170.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_02170.exe]
+        ignore line: [E:\\software\\Cmake\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_02170.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -2774,13 +2699,13 @@ events:
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ef774.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_ef774.']
-        link line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccRhxY3O.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ef774.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_ef774.dir/objects.a --no-whole-archive --out-implib libcmTC_ef774.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_02170.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_02170.']
+        link line: [ E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccdhHRyO.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_02170.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_02170.dir/objects.a --no-whole-archive --out-implib libcmTC_02170.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccRhxY3O.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccdhHRyO.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2802,7 +2727,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_ef774.exe] ==> ignore
+          arg [cmTC_02170.exe] ==> ignore
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -2813,10 +2738,10 @@ events:
           arg [-LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_ef774.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_02170.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_ef774.dll.a] ==> ignore
+          arg [libcmTC_02170.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2842,7 +2767,7 @@ events:
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccRhxY3O.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ef774.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_ef774.dir/objects.a --no-whole-archive --out-implib libcmTC_ef774.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Y9000P\\AppData\\Local\\Temp\\ccdhHRyO.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_02170.exe E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LE:/software/MSYS2/ucrt64/bin/../lib/gcc -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LE:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_02170.dir/objects.a --no-whole-archive --out-implib libcmTC_02170.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o E:/software/MSYS2/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'CXX': E:/software/MSYS2/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]

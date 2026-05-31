@@ -1,61 +1,61 @@
 [
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\main.cpp.obj -c E:\\BRICK_GAME\\src\\main.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\main.cpp.obj -c E:\\BRICK_GAME\\src\\main.cpp",
   "file": "E:/BRICK_GAME/src/main.cpp",
   "output": "CMakeFiles/BrickGame.dir/src/main.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Ball.cpp.obj -c E:\\BRICK_GAME\\src\\Ball.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Ball.cpp.obj -c E:\\BRICK_GAME\\src\\Ball.cpp",
   "file": "E:/BRICK_GAME/src/Ball.cpp",
   "output": "CMakeFiles/BrickGame.dir/src/Ball.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Paddle.cpp.obj -c E:\\BRICK_GAME\\src\\Paddle.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Paddle.cpp.obj -c E:\\BRICK_GAME\\src\\Paddle.cpp",
   "file": "E:/BRICK_GAME/src/Paddle.cpp",
   "output": "CMakeFiles/BrickGame.dir/src/Paddle.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Brick.cpp.obj -c E:\\BRICK_GAME\\src\\Brick.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Brick.cpp.obj -c E:\\BRICK_GAME\\src\\Brick.cpp",
   "file": "E:/BRICK_GAME/src/Brick.cpp",
   "output": "CMakeFiles/BrickGame.dir/src/Brick.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Game.cpp.obj -c E:\\BRICK_GAME\\src\\Game.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\Game.cpp.obj -c E:\\BRICK_GAME\\src\\Game.cpp",
   "file": "E:/BRICK_GAME/src/Game.cpp",
   "output": "CMakeFiles/BrickGame.dir/src/Game.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\PowerUp.cpp.obj -c E:\\BRICK_GAME\\src\\PowerUp.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/BrickGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BrickGame.dir\\src\\PowerUp.cpp.obj -c E:\\BRICK_GAME\\src\\PowerUp.cpp",
   "file": "E:/BRICK_GAME/src/PowerUp.cpp",
   "output": "CMakeFiles/BrickGame.dir/src/PowerUp.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\test.cpp.obj -c E:\\BRICK_GAME\\src\\test.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\test.cpp.obj -c E:\\BRICK_GAME\\src\\test.cpp",
   "file": "E:/BRICK_GAME/src/test.cpp",
   "output": "CMakeFiles/test.dir/src/test.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\Ball.cpp.obj -c E:\\BRICK_GAME\\src\\Ball.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\Ball.cpp.obj -c E:\\BRICK_GAME\\src\\Ball.cpp",
   "file": "E:/BRICK_GAME/src/Ball.cpp",
   "output": "CMakeFiles/test.dir/src/Ball.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\Paddle.cpp.obj -c E:\\BRICK_GAME\\src\\Paddle.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\Paddle.cpp.obj -c E:\\BRICK_GAME\\src\\Paddle.cpp",
   "file": "E:/BRICK_GAME/src/Paddle.cpp",
   "output": "CMakeFiles/test.dir/src/Paddle.cpp.obj"
 },
 {
   "directory": "E:/BRICK_GAME/build",
-  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\Brick.cpp.obj -c E:\\BRICK_GAME\\src\\Brick.cpp",
+  "command": "E:\\software\\MSYS2\\ucrt64\\bin\\g++.exe -DENET_STATIC @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\src\\Brick.cpp.obj -c E:\\BRICK_GAME\\src\\Brick.cpp",
   "file": "E:/BRICK_GAME/src/Brick.cpp",
   "output": "CMakeFiles/test.dir/src/Brick.cpp.obj"
 }

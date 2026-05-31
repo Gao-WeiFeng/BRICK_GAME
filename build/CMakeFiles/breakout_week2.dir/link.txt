@@ -1,3 +1,0 @@
-E:\software\Cmake\bin\cmake.exe -E rm -f CMakeFiles\breakout_week2.dir/objects.a
-E:\software\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\breakout_week2.dir/objects.a @CMakeFiles\breakout_week2.dir\objects1.rsp
-E:\software\MSYS2\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\breakout_week2.dir/objects.a -Wl,--no-whole-archive -o breakout_week2.exe -Wl,--out-implib,libbreakout_week2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\breakout_week2.dir\linkLibs.rsp
