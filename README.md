@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[README.md](https://github.com/user-attachments/files/28434056/README.md)
+>>>>>>> 11bda4682487e9900c141f6d4092ca0b5102d529
 # 打砖块游戏 (Brick Game)
 
 ## 简介
@@ -166,4 +170,8 @@ BRICK\_GAME/
 
 * 使用 AI 解释了多线程同步的原理，优化了网络同步的代码，解决了数据竞争问题
 
+<<<<<<< HEAD
 * 使用 AI 辅助整理了代码注释和 README 文档，按照规范完善了项目的文档
+=======
+* 使用 AI 辅助整理了代码注释和 README 文档，按照规范完善了项目的文档
+>>>>>>> 11bda4682487e9900c141f6d4092ca0b5102d529
